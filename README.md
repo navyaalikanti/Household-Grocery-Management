@@ -3,7 +3,7 @@
 A desktop application designed to simplify household grocery management.  
 Track your inventory with expiry alerts,explore recipes, auto-generate shopping lists,monitor your budget through interactive graphs, ensure a balanced diet , and find ingredient substitutes instantly,— all from one beautifully crafted interface.
 
-Developed using **Python and PyQt5**, this app blends functionality and intelligence to support smarter, healthier, and more organized living.
+Developed using **Python and PyQt5**, this app blends functionality and intelligence to support smarter, healthier, and more organized living. Making the grocery managaments more easier and handfull.
 
 
 ---
