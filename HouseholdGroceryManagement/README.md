@@ -1,4 +1,4 @@
-# 🏠 Household Grocery Management System
+# Household Grocery Management System
 
 A desktop application designed to simplify household grocery management.  
 Track your inventory with expiry alerts,explore recipes, auto-generate shopping lists,monitor your budget through interactive graphs, ensure a balanced diet , and find ingredient substitutes instantly,— all from one beautifully crafted interface.
@@ -7,29 +7,29 @@ Developed using **Python and PyQt5**, this app blends functionality and intellig
 
 
 ---
-## ✨ Features
+##  Features
 
-- ✅ **Inventory Tracking with Expiry Alerts**  
+- **Inventory Tracking with Expiry Alerts**  
   Add grocery items with quantity, category & expiry. Get notified before things expire.
 
-- ✅ **Recipe Generator**  
+- **Recipe Generator**  
   Enter a dish name and get the list of ingredients and step-by-step method.
 
-- ✅ **Shopping List Manager**  
+- **Shopping List Manager**  
   Auto-generates shopping lists from finished/expired.
 
-- ✅ **Budget Tracker with Graphs**  
+- **Budget Tracker with Graphs**  
   Keep your Grocery spending in check.
 
-- ✅ **Nutritional Analyzer**  
+- **Nutritional Analyzer**  
   Input your meals and get feedback on diet balance (proteins, carbs, fats, etc.)
 
-- ✅ **Ingredient Substitute Finder**  
+- **Ingredient Substitute Finder**  
   Suggests alternatives for missing ingredients using a prebuilt substitution dataset.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool             | Purpose                        |
 |------------------|--------------------------------|
@@ -44,7 +44,7 @@ Developed using **Python and PyQt5**, this app blends functionality and intellig
 
 ---
 
-## 🧰 Dependencies
+## Dependencies
 
 Install required Python libraries with pip:
 
@@ -58,9 +58,10 @@ pip install matplotlib
 ```
 ---
 
-## 🙋‍♀️ Authors
+## Authors
 
 
 - **Navya Alikanti**  
 - **Vijaya Sree Mallikanti** 
+
 
