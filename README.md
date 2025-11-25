@@ -29,7 +29,7 @@ Developed using **Python and PyQt5**, this app blends functionality and intellig
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool             | Purpose                        |
 |------------------|--------------------------------|
