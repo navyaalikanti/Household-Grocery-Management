@@ -59,35 +59,56 @@ pip install matplotlib
 ---
 ## Project Screenshots
 
-### Login Page
-<img src="project_screenshots/login.jpeg" width="450"/>
+<h3>Login Page</h3>
+<p align="center">
+  <img src="project_screenshots/login.jpeg" width="300"/>
+  <img src="project_screenshots/home_page.jpeg" width="300"/>
+</p>
+<p align="center">
+  <span>Login Page</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>Home Page</span>
+</p>
 
-### Home Page
-<img src="project_screenshots/home_page.jpeg" width="450"/>
+<h3>Inventory Management</h3>
+<p align="center">
+  <img src="project_screenshots/inventory_management.jpeg" width="300"/>
+  <img src="project_screenshots/receipe_generator.jpeg" width="300"/>
+</p>
+<p align="center">
+  <span>Inventory Management</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>Recipe Generator</span>
+</p>
 
-### Inventory Management
-<img src="project_screenshots/inventory_management.jpeg" width="450"/>
+<h3>Shopping and Budget</h3>
+<p align="center">
+  <img src="project_screenshots/shopping_list_manager.jpeg" width="300"/>
+  <img src="project_screenshots/budget_tracker.jpeg" width="300"/>
+</p>
+<p align="center">
+  <span>Shopping List Manager</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span>Budget Tracker</span>
+</p>
 
-### Receipe Generator
-<img src="project_screenshots/receipe_generator.jpeg" width="450"/>
-
-### Shopping List Manager
-<img src="project_screenshots/shopping_list_manager.jpeg" width="450"/>
-
-### Budget Tracker
-<img src="project_screenshots/budget_tracker.jpeg" width="450"/>
-
-### Nutrition Companion
-<img src="project_screenshots/nutrition_companion.jpeg" width="450"/>
-
-### Ingridient Substitute
-<img src="project_screenshots/ingridient_substitute.jpeg" width="450"/>
+<h3>Health Utilities</h3>
+<p align="center">
+  <img src="project_screenshots/nutrition_companion.jpeg" width="300"/>
+  <img src="project_screenshots/ingridient_substitute.jpeg" width="300"/>
+</p>
+<p align="center">
+  <span>Nutrition Companion</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span>Ingredient Substitute</span>
+</p>
 
 
 ## Authors
 
 - **Navya Alikanti**  
 - **Vijaya Sree Mallikanti** 
+
 
 
 
