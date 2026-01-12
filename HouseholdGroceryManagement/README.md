@@ -63,16 +63,32 @@ pip install matplotlib
 <img src="project_screenshots/login.jpeg" width="450"/>
 
 ### Home Page
-![Home Page](project_screenshots/home_page.jpeg)
+<img src="project_screenshots/home_page.jpeg" width="450"/>
 
-### Inventory Page
-![Inventory](project_screenshots/inventory_management.png)
+### Inventory Management
+<img src="project_screenshots/inventory_management.jpeg" width="450"/>
+
+### Receipe Generator
+<img src="project_screenshots/receipe_generator.jpeg" width="450"/>
+
+### Shopping List Manager
+<img src="project_screenshots/shopping_list_manager.jpeg" width="450"/>
+
+### Budget Tracker
+<img src="project_screenshots/budget_tracker.jpeg" width="450"/>
+
+### Nutrition Companion
+<img src="project_screenshots/nutrition_companion.jpeg" width="450"/>
+
+### Ingridient Substitute
+<img src="project_screenshots/ingridient_substitute.jpeg" width="450"/>
+
 
 ## Authors
 
-
 - **Navya Alikanti**  
 - **Vijaya Sree Mallikanti** 
+
 
 
 
