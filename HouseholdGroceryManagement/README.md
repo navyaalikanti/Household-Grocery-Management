@@ -60,7 +60,7 @@ pip install matplotlib
 ## Project Screenshots
 
 ### Login Page
-![Login Page](project_screenshots/login.jpeg)
+<img src="project_screenshots/login.jpeg" width="450"/>
 
 ### Home Page
 ![Home Page](project_screenshots/home_page.jpeg)
@@ -73,6 +73,7 @@ pip install matplotlib
 
 - **Navya Alikanti**  
 - **Vijaya Sree Mallikanti** 
+
 
 
 
