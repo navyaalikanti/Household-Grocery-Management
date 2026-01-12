@@ -59,55 +59,59 @@ pip install matplotlib
 ---
 ## Project Screenshots
 
-<h3>Login Page</h3>
-<p align="center">
-  <img src="project_screenshots/login.jpeg" width="450"/>
-  <img src="project_screenshots/home_page.jpeg" width="450"/>
-</p>
-<p align="center">
-  <span>Login Page</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>Home Page</span>
-</p>
+## Project Screenshots
 
-<h3>Inventory Management</h3>
-<p align="center">
-  <img src="project_screenshots/inventory_management.jpeg" width="450"/>
-  <img src="project_screenshots/receipe_generator.jpeg" width="450"/>
-</p>
-<p align="center">
-  <span>Inventory Management</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>Recipe Generator</span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="project_screenshots/login.jpeg" width="450"/><br/>
+      Login Page
+    </td>
+    <td align="center">
+      <img src="project_screenshots/home_page.jpeg" width="450"/><br/>
+      Home Page
+    </td>
+  </tr>
 
-<h3>Shopping and Budget</h3>
-<p align="center">
-  <img src="project_screenshots/shopping_list_manager.jpeg" width="450"/>
-  <img src="project_screenshots/budget_tracker.jpeg" width="450"/>
-</p>
-<p align="center">
-  <span>Shopping List Manager</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>Budget Tracker</span>
-</p>
+  <tr>
+    <td align="center">
+      <img src="project_screenshots/inventory_management.jpeg" width="450"/><br/>
+      Inventory Management
+    </td>
+    <td align="center">
+      <img src="project_screenshots/receipe_generator.jpeg" width="450"/><br/>
+      Recipe Generator
+    </td>
+  </tr>
 
-<h3>Health Utilities</h3>
-<p align="center">
-  <img src="project_screenshots/nutrition_companion.jpeg" width="450"/>
-  <img src="project_screenshots/ingridient_substitute.jpeg" width="450"/>
-</p>
-<p align="center">
-  <span>Nutrition Companion</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span>Ingredient Substitute</span>
-</p>
+  <tr>
+    <td align="center">
+      <img src="project_screenshots/shopping_list_manager.jpeg" width="450"/><br/>
+      Shopping List Manager
+    </td>
+    <td align="center">
+      <img src="project_screenshots/budget_tracker.jpeg" width="450"/><br/>
+      Budget Tracker
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center">
+      <img src="project_screenshots/nutrition_companion.jpeg" width="450"/><br/>
+      Nutrition Companion
+    </td>
+    <td align="center">
+      <img src="project_screenshots/ingridient_substitute.jpeg" width="450"/><br/>
+      Ingredient Substitute
+    </td>
+  </tr>
+</table>
 
 ## Authors
 
 - **Navya Alikanti**  
 - **Vijaya Sree Mallikanti** 
+
 
 
 
