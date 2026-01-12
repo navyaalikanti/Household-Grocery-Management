@@ -58,6 +58,54 @@ pip install matplotlib
 ```
 ---
 
+## Project Screenshots
+
+<table align="center" cellpadding="20" cellspacing="20">
+  <tr>
+    <td align="center">
+      <img src="project_screenshots/login.jpeg" width="450"/><br/>
+      Login Page
+    </td>
+    <td align="center">
+      <img src="project_screenshots/home_page.jpeg" width="450"/><br/>
+      Home Page
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="project_screenshots/inventory_management.jpeg" width="450"/><br/>
+      Inventory Management
+    </td>
+    <td align="center">
+      <img src="project_screenshots/receipe_generator.jpeg" width="450"/><br/>
+      Recipe Generator
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="project_screenshots/shopping_list_manager.jpeg" width="450"/><br/>
+      Shopping List Manager
+    </td>
+    <td align="center">
+      <img src="project_screenshots/budget_tracker.jpeg" width="450"/><br/>
+      Budget Tracker
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="project_screenshots/nutrition_companion.jpeg" width="450"/><br/>
+      Nutrition Companion
+    </td>
+    <td align="center">
+      <img src="project_screenshots/ingridient_substitute.jpeg" width="450"/><br/>
+      Ingredient Substitute
+    </td>
+  </tr>
+</table>
+
 ##  Authors
 
 
