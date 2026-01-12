@@ -57,11 +57,22 @@ pip install fpdf
 pip install matplotlib
 ```
 ---
+## Project Screenshots
+
+### Login Page
+![Login Page](project_screenshots/login.jpeg)
+
+### Home Page
+![Home Page](project_screenshots/home_page.jpeg)
+
+### Inventory Page
+![Inventory](project_screenshots/inventory_management.png)
 
 ## Authors
 
 
 - **Navya Alikanti**  
 - **Vijaya Sree Mallikanti** 
+
 
 
