@@ -63,7 +63,7 @@ pip install matplotlib
 <table align="center" cellpadding="20" cellspacing="20">
   <tr>
     <td align="center">
-      <img src="project_screenshots/login.jpeg" width="450"/><br/>
+      <img src="HouseholdGroceryManagement/project_screenshots/login.jpeg" width="450"/><br/>
       Login Page
     </td>
     <td align="center">
