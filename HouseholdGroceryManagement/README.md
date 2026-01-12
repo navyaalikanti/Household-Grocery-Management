@@ -59,9 +59,7 @@ pip install matplotlib
 ---
 ## Project Screenshots
 
-## Project Screenshots
-
-<table align="center">
+<table align="center" cellpadding="20" cellspacing="20">
   <tr>
     <td align="center">
       <img src="project_screenshots/login.jpeg" width="450"/><br/>
@@ -107,10 +105,12 @@ pip install matplotlib
   </tr>
 </table>
 
+
 ## Authors
 
 - **Navya Alikanti**  
 - **Vijaya Sree Mallikanti** 
+
 
 
 
