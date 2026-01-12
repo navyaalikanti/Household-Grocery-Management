@@ -86,7 +86,7 @@ pip install matplotlib
 
   <tr>
     <td align="center">
-      <img src="project_screenshots/shopping_list_manager.jpeg" width="450"/><br/>
+      <img src="project_screenshots/shoppin_list_manager.jpeg" width="450"/><br/>
       Shopping List Manager
     </td>
     <td align="center">
@@ -111,6 +111,7 @@ pip install matplotlib
 
 - **Navya Alikanti**  
 - **Vijaya Sree Mallikanti** 
+
 
 
 
