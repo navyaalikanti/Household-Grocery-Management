@@ -85,7 +85,7 @@ pip install matplotlib
 
   <tr>
     <td align="center">
-      <img src="HouseholdGroceryManagement/project_screenshots/shopping_list_manager.jpeg" width="450"/><br/>
+      <img src="HouseholdGroceryManagement/project_screenshots/shoppin_list_manager.jpeg" width="450"/><br/>
       Shopping List Manager
     </td>
     <td align="center">
